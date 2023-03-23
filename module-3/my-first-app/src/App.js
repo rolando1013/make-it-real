@@ -1,11 +1,14 @@
 // import logo from './logo.svg';
 import './App.css';
-import { Counter } from './Counter';
+// import { Counter } from './components/task-1/Counter';
 
 function App() {
   return (
     <div className="App">
-      <Counter/>
+    <header className='App-header'> 
+      {/* <Counter/> */}
+      learn react
+    </header>
     </div>
   );
 }
